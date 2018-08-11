@@ -1,6 +1,6 @@
 # Incidentes de Seguridad en Chile
 
-Este es un listado de incidentes de seguridad informática en empresas de alto perfil en Chile, mantenido por la comunidad. 
+Este es un listado de incidentes de seguridad informática en empresas de alto perfil en Chile, mantenido por la comunidad a partir de la información públicamente accesible en medios de prensa y redes sociales. 
 
 # Incidentes
 
@@ -36,4 +36,6 @@ El signo ⚠️ apunta a un comportamiento alejado de las buenas prácticas de s
 
 # Contribuir
 
-Para contribuir a este listado, simplemente envía un pull request que modifique este README. Debes seguir el mismo patrón existente para agregar nuevos incidentes (y debes incluir cada incidente en un pull request separado). También son bienvenidas mejoras en el formato y simbología, en issues o pull requests separados del reporte de cada incidente.
+Para contribuir a este listado, simplemente envía un pull request que modifique este README. Debes seguir el mismo patrón existente para agregar nuevos incidentes (y debes incluir cada incidente en un pull request separado). También son bienvenidas actualizaciones o correcciones en cada reporte, así como también mejoras en el formato y simbología. Todo en issues o pull requests separados 😉
+
+Los hechos descritos en cada reporte de incidente deben estar completamente respaldados por las fuentes citadas. 
