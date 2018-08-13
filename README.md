@@ -39,3 +39,5 @@ El signo ⚠️ apunta a un comportamiento alejado de las buenas prácticas de s
 Para contribuir a este listado, simplemente envía un pull request que modifique este README. Debes seguir el mismo patrón existente para agregar nuevos incidentes (y debes incluir cada incidente en un pull request separado). También son bienvenidas actualizaciones o correcciones en cada reporte, así como también mejoras en el formato y simbología. Todo en issues o pull requests separados 😉
 
 Los hechos descritos en cada reporte de incidente deben estar completamente respaldados por las fuentes citadas. 
+
+En caso de un incidente cuyos detalles aún no estén 100% claros, se pueden incluir con la información parcial que esté disponible  y aparezca en las fuentes citadas, dejando como "Desconocido" los campos sin información.
