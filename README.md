@@ -4,6 +4,24 @@ Este es un listado de incidentes de seguridad informática en empresas de alto p
 
 # Incidentes
 
+## 25 de Julio de 2018 - Desconocido
+
+- **Falla**: Filtración de datos de 14 mil tarjetas de crédito, 2.446 de ellas estaban vigentes.
+
+- **Impacto**: Los datos contienen toda la información necesaria para realizar una compra, en canales que no solicitan una autenticación con el banco emisor, como compras internacionales o telefónicas.
+
+- **Reportado por**: u/adderou Reddit
+
+- **¿Hubo recompensa ("bug bounty") o reconocimiento para quien lo reportó?**: No aplica.
+
+- **Comunicado oficial de la empresa**: No aplica.
+
+- Fuentes: 
+  - [Incidente de seguridad relacionado con información de tarjetas de crédito(Primer comunicado SBIF)](http://www.sbif.cl/sbifweb/servlet/Noticia?indice=2.1&idContenido=12160)
+  - [Segundo comunicado acerca del incidente de seguridad de tarjetas de crédito(SBIF)](www.sbif.cl/sbifweb/servlet/Noticia?indice=2.1&idContenido=12161)
+  - [Correos de Chile investiga posible filtración de datos de tarjetas desde su servicio de casillas](https://www.fayerwayer.com/2018/07/correos-de-chile-filtracion/)
+  - [Correos de Chile tras revisión por filtración determina que esta no tendría relación con sus sistemas (actualizado)](https://www.latercera.com/pulso/noticia/correos-chile-declara-se-encuentra-investigando-la-posible-filtracion-datos/258029/#)
+
 ## 2 de Agosto de 2018 - Banco Falabella
 
 - **Falla**: Fue posible ingresar a la cuenta de clientes sin conocer su contraseña. Bastaba ingresar espacios. 
