@@ -10,7 +10,7 @@ Este es un listado de incidentes de seguridad informática en empresas de alto p
 
 - **Impacto**: Los datos contienen toda la información necesaria para realizar una compra, en canales que no solicitan una autenticación con el banco emisor, como compras internacionales o telefónicas.
 
-- **Reportado por**: u/adderou Reddit
+- **Reportado por**: Una [cuenta twitter](https://twitter.com/brokers_shadow) que decía pertenecer a Shadow Brokers (pero nunca ha sido confirmado tal vínculo). El disclosure fue irresponsable, exponiendo información personal de tarjetahabientes y sin reportar el problema a la (desconocida) fuente de la filtración❗️
 
 - **¿Hubo recompensa ("bug bounty") o reconocimiento para quien lo reportó?**: No aplica.
 
@@ -42,6 +42,8 @@ Este es un listado de incidentes de seguridad informática en empresas de alto p
 
 # Simbología
 
+El signo ❗️apunta a divulgación no responsable del problema de seguridad por parte de quien lo descubrió, o un uso malicioso de la información obtenida.
+
 El signo ⚠️ apunta a un comportamiento alejado de las buenas prácticas de seguridad de la empresa afectada. Los comportamientos destacados con ese signo son:
 
 - Poner en problemas legales a quien reporta una falla de seguridad después de haber sido descubierta (a) sin fines maliciosos y (b) habiendo hecho todos los esfuerzos esperables de un _responsible disclosure_. 
@@ -51,6 +53,8 @@ El signo ⚠️ apunta a un comportamiento alejado de las buenas prácticas de s
 - No reconocer y/o recompensar a quien descubrió y reportó el problema.
 
 - No comunicar públicamente la situación junto a su mitigación y corrección.
+
+
 
 # Contribuir
 
