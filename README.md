@@ -14,7 +14,7 @@ Este es un listado de incidentes de seguridad informática en empresas de alto p
 
 - **¿Hubo recompensa ("bug bounty") o reconocimiento para quien lo reportó?**: No aplica.
 
-- **Comunicado oficial de la empresa**: No aplica. ⚠️
+- **Comunicado oficial de la empresa**: No aplica.
 
 - Fuentes: 
   - [Incidente de seguridad relacionado con información de tarjetas de crédito(Primer comunicado SBIF)](http://www.sbif.cl/sbifweb/servlet/Noticia?indice=2.1&idContenido=12160)
