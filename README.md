@@ -24,7 +24,7 @@ Este es un listado de incidentes de seguridad informática en empresas de alto p
   - [Correos de Chile investiga posible filtración de datos de tarjetas desde su servicio de casillas](https://www.fayerwayer.com/2018/07/correos-de-chile-filtracion/)
   - [Correos de Chile tras revisión por filtración determina que esta no tendría relación con sus sistemas (actualizado)](https://www.latercera.com/pulso/noticia/correos-chile-declara-se-encuentra-investigando-la-posible-filtracion-datos/258029/#)
   - [SBIF presenta denuncia en la Fiscalía Centro Norte por incidente de seguridad de tarjetas de crédito](http://www.sbif.cl/sbifweb/servlet/Noticia?indice=2.1&idContenido=12162)
-  - [Casilla virtual Miami fue el punto débil: Correos de Chile admite fallas que generaron filtraciones en tarjetas de crédito] https://www.publimetro.cl/cl/noticias/2018/09/10/casilla-virtual-miami-fue-el-punto-debil-correos-de-chile-admite-fallas-que-generaron-filtraciones-en-tarjetas-de-credito.html
+  - [Casilla virtual Miami fue el punto débil: Correos de Chile admite fallas que generaron filtraciones en tarjetas de crédito](https://www.publimetro.cl/cl/noticias/2018/09/10/casilla-virtual-miami-fue-el-punto-debil-correos-de-chile-admite-fallas-que-generaron-filtraciones-en-tarjetas-de-credito.html)
   - [Filtración de datos: SBIF recibe una base encriptada de información desde Correos de Chile y la remite a operadores](http://www.emol.com/noticias/Economia/2018/09/11/920328/SBIF-informa-acciones-tras-recientes-filtraciones-de-datos-de-clientes-bancarios.html)
 
 ## 2 de Agosto de 2018 - Banco Falabella
